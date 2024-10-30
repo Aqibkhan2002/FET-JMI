@@ -6,3 +6,4 @@ Welcome to the un-official website of Jamia Millia Islamia (JMI) University. Thi
 
 **Live Link:** [https://jamiamilliaislamia.netlify.app/](https://jamiamilliaislamia.netlify.app/)
 "# FET-JMI" 
+"# FET-JMI" 
